@@ -1,0 +1,1 @@
+This template provides a three-column layout suitable for a formula sheet, reference page, or cheatsheet. It is designed to integrate with the [paper](https://github.com:jasedit/papers_base) system, which extends the MultiMarkdown LaTeX support to more easily encapsulate LaTeX templates.
